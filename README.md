@@ -3,7 +3,7 @@
 Yue FANG, NUID 001584481
 
 #### Start the Project
-![](Report/Input API Warning.png)
+![](Report/InputAPIWarning.png)
 Please Select **No** when the warning pop up.
 
 #### How to Play
