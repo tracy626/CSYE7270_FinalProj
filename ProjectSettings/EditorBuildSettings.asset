@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 17c1cc0d6fd6b4bb48117c231c30dc6c
+  - enabled: 1
+    path: Assets/Scenes/Cornfield.unity
+    guid: c937a93a9d9d64f75b26abfa8b965d49
+  - enabled: 1
+    path: Assets/Scenes/Rooftop.unity
+    guid: 8b286e291c8d7495f873ef263d62f321
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 132e3d1856b87425c8120a4549a9fc37, type: 2}
